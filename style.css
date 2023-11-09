@@ -1,0 +1,62 @@
+body {
+  background-color: lightgray
+}
+
+.header {
+  background-color: ivory;
+  text-align: center;
+  border: 5px solid steelblue;
+}
+
+h1 {
+  color: steelblue;
+  font-size: 40px;
+  font-family: Tahoma; Helvetica; Arial; sans-serif;
+  font-variant: small-caps;
+}
+
+p {
+  font-variant: small-caps;  
+}
+
+.education {
+  font-variant: small-caps;
+  font-size: 20px;
+  font-family: Tahoma; Helvetica; Arial; sans-serif;
+  background-color: steelblue;
+  color: ivory;
+  padding-left: 10px;
+}
+
+.coaching_experience {
+  font-variant: small-caps;
+  font-size: 20px;
+  font-family: Tahoma; Helvetica; Arial; sans-serif;
+  background-color: steelblue;
+  color: ivory;
+  padding-left: 10px;
+}
+
+.employment_experience {
+  font-variant: small-caps;
+  font-size: 20px;
+  font-family: Tahoma; Helvetica; Arial; sans-serif;
+  background-color: steelblue;
+  color: ivory;
+  padding-left: 10px;
+}
+
+.community_involvement {
+  font-variant: small-caps;
+  font-size: 20px;
+  font-family: Tahoma; Helvetica; Arial; sans-serif;
+  background-color: steelblue;
+  color: ivory;
+  padding-left: 10px;
+}
+
+.footer {
+  background-color: ivory;
+  font-variant: small-caps;
+  padding-left: 10px;
+}
